@@ -1,54 +1,81 @@
-  Hi, I'm Jyoti Yadav 👋
+# Hi, I'm Jyoti Yadav 👋
 
-💻 B.Tech CSE Student | Python Developer | Aspiring Software Developer
+💻 **B.Tech CSE Student | Python Developer | Aspiring Software Developer**
 
-I'm currently learning and building projects in Python, SQL, Git, and GitHub.
+I'm a Computer Science student passionate about building practical applications using **Python, SQL, AI, and data analytics**.
 
- 🚀 What I'm working on
+I enjoy turning ideas into working projects while continuously improving my programming, problem-solving, and software development skills.
 
-* 🐍 Python projects
-* 🤖 AI & automation projects
-* 🗄️ SQL & database projects
-* 💻 Problem solving and DSA
-* 📚 Improving my software development skills
+## 🚀 What I'm Working On
 
- 🛠️ Skills
+* 🐍 Python application development
+* 🤖 AI & automation
+* 📊 Data analysis & visualization
+* 🗄️ SQL & database development
+* 🧠 Data Structures & Algorithms
+* 💻 Software development
+
+## 🛠️ Tech Stack
+
+**Languages & Programming**
 
 * Python
 * SQL
+
+**Databases**
+
+* SQLite
 * MySQL
-* Git & GitHub
+
+**Libraries & Frameworks**
+
+* Pandas
+* Matplotlib
+* Streamlit
+* Tkinter
+
+**AI & Automation**
+
+* Generative AI
+* OCR
+* Automation
+
+**Tools**
+
+* Git
+* GitHub
 * VS Code
-* AI & Automation
 
- 📌 Projects
+## 📌 Featured Projects
 
-* 🤖 Jarvis Voice Assistant
-* 💬 Auto Reply AI Chatbot
-* 🎮 Python Games
-* 🎯 The Perfect Guess
+### 🤖 AI Resume Analyzer
 
- 🌱 Currently Learning
+AI-powered application that analyzes resumes and provides intelligent feedback.
 
-Python • DSA • SQL • Git & GitHub • Software Development
+### 💼 Job Application Tracker
 
- 🎯 Goal
+A Python-based application for tracking job applications, statuses, and application statistics.
 
-To become a skilled software developer by continuously learning, building, and improving.
+### 📊 Sales Analytics Pro
 
-**Learn • Build • Grow • Repeat 🔁**
+Interactive dashboard for analyzing sales, profit, products, customers, and regional performance.
 
-<!--
-**jyotiyadav6505/jyotiyadav6505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💰 Expense Tracker Pro
 
-Here are some ideas to get you started:
+Desktop expense management application with SQLite database, data visualization, and CSV export.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Student Performance Analyzer
+
+Python-based data analysis project for evaluating student performance, rankings, grades, and subject-wise results.
+
+## 🌱 Currently Learning
+
+**Python • DSA • SQL • Git & GitHub • Software Development**
+
+## 🎯 Goal
+
+To become a skilled software developer by continuously **learning, building, and improving**.
+
+> **Learn • Build • Grow • Repeat 🔁**
+
+📫 **GitHub:** [@jyotiyadav6505](https://github.com/jyotiyadav6505)
