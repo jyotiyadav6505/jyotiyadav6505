@@ -1,4 +1,4 @@
-# Hi, I'm Jyoti Yadav 👋
+# Hi, I'm Jyoti Yadav 
 
 💻 **B.Tech CSE Student | Python Developer | Aspiring Software Developer**
 
