@@ -1,81 +1,18 @@
-# Hi, I'm Jyoti Yadav 
+# 💫 About Me:
+🔭 I’m currently working on Python projects and strengthening my DSA skills<br><br>👯 I’m looking to collaborate on Python and software development projects<br><br>🤝 I’m looking for opportunities to gain real-world experience through internships<br><br>🌱 I’m currently learning DSA with Python, SQL, and problem solving<br><br>💬 Ask me about Python, SQL, GitHub, and my projects<br><br>⚡ Fun fact: I enjoy turning ideas into projects and learning something new every day!
 
-💻 **B.Tech CSE Student | Python Developer | Aspiring Software Developer**
 
-I'm a Computer Science student passionate about building practical applications using **Python, SQL, AI, and data analytics**.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jyoti-yadav-516681315.) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jyotiyadav6505@gmail.com) 
 
-I enjoy turning ideas into working projects while continuously improving my programming, problem-solving, and software development skills.
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=jyotiyadav6505&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=jyotiyadav6505&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jyotiyadav6505&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🚀 What I'm Working On
+---
+[![](https://komarev.com/ghpvc/?username=jyotiyadav6505&icon=0&color=0)](https://visitcount.itsvg.in)
 
-* 🐍 Python application development
-* 🤖 AI & automation
-* 📊 Data analysis & visualization
-* 🗄️ SQL & database development
-* 🧠 Data Structures & Algorithms
-* 💻 Software development
-
-## 🛠️ Tech Stack
-
-**Languages & Programming**
-
-* Python
-* SQL
-
-**Databases**
-
-* SQLite
-* MySQL
-
-**Libraries & Frameworks**
-
-* Pandas
-* Matplotlib
-* Streamlit
-* Tkinter
-
-**AI & Automation**
-
-* Generative AI
-* OCR
-* Automation
-
-**Tools**
-
-* Git
-* GitHub
-* VS Code
-
-## 📌 Featured Projects
-
-### 🤖 AI Resume Analyzer
-
-AI-powered application that analyzes resumes and provides intelligent feedback.
-
-### 💼 Job Application Tracker
-
-A Python-based application for tracking job applications, statuses, and application statistics.
-
-### 📊 Sales Analytics Pro
-
-Interactive dashboard for analyzing sales, profit, products, customers, and regional performance.
-
-### 💰 Expense Tracker Pro
-
-Desktop expense management application with SQLite database, data visualization, and CSV export.
-
-### 🎓 Student Performance Analyzer
-
-Python-based data analysis project for evaluating student performance, rankings, grades, and subject-wise results.
-
-## 🌱 Currently Learning
-
-**Python • DSA • SQL • Git & GitHub • Software Development**
-
-## 🎯 Goal
-
-To become a skilled software developer by continuously **learning, building, and improving**.
-
-> **Learn • Build • Grow • Repeat 🔁**
-
-📫 **GitHub:** [@jyotiyadav6505](https://github.com/jyotiyadav6505)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
