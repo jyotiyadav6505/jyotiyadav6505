@@ -58,10 +58,11 @@
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
-| 📄 **[AI Resume Analyzer](https://github.com/jyotiyadav6505)** | `Python` `Streamlit` `Gemini API` | Parses resumes and delivers structured, AI-powered feedback & skill gap analysis. |
-| 💼 **[Job Application Tracker](https://github.com/jyotiyadav6505)** | `Python` `Streamlit` `SQLite` | Recruitment pipeline tracking system with persistent database storage and analytics. |
-| 📈 **[Sales Analytics Pro](https://github.com/jyotiyadav6505)** | `Pandas` `Matplotlib` `Streamlit` | Multi-dimensional sales data intelligence with category-wise profit margins & trends. |
-| 💰 **[Expense Tracker Pro](https://github.com/jyotiyadav6505)** | `Python` `Tkinter` `SQLite` | Desktop financial management tool with spending breakdown graphs and CSV exports. |
+| 📄 **[AI Resume Analyzer](https://github.com/jyotiyadav6505/AI-Resume-Analyze)** | `Python` `Streamlit` `Gemini API` | Parses resumes and delivers structured, AI-powered feedback & skill gap analysis. |
+| 💼 **[Job Application Tracker](https://github.com/jyotiyadav6505/Job-Application-Tracker)** | `Python` `Streamlit` `SQLite` | Recruitment pipeline tracking system with persistent database storage and analytics. |
+| 📈 **[Sales Analytics Pro](https://github.com/jyotiyadav6505/Sales---Analytics---Pro)** | `Pandas` `Matplotlib` `Streamlit` | Multi-dimensional sales data intelligence with category-wise profit margins & trends. |
+| 💰 **[Expense Tracker Pro](https://github.com/jyotiyadav6505/Expense--Tracker-Pro)** | `Python` `Tkinter` `SQLite` | Desktop financial management tool with spending breakdown graphs and CSV exports. |
+| 📊 **[Student Performer Analyzer](https://github.com/jyotiyadav6505/Student-Performer-Analyzer-)** | `Python` `Data Analytics` `Streamlit` | Analyzes and tracks academic performance metrics with interactive visual reporting. |
 
 ---
 
