@@ -65,27 +65,11 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=jyotiyadav6505&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Jyoti's GitHub Stats" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotiyadav6505&layout=compact&theme=radical" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jyotiyadav6505&theme=radical" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 📬 Let's Connect!
 
 - 💼 **LinkedIn**: [in/jyoti-yadav-516681315](https://linkedin.com/in/jyoti-yadav-516681315)
 - 🐙 **GitHub**: [@jyotiyadav6505](https://github.com/jyotiyadav6505)
 - 📧 **Email**: [jyotiyadav6505@gmail.com](mailto:jyotiyadav6505@gmail.com)
-- 📱 **Phone**: [+91 9258717838](tel:+919258717838)
 
 ---
 
