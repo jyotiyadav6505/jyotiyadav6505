@@ -18,12 +18,13 @@
 
 ## 📌 About Me
 
-- 🎓 **Education**: B.Tech in Computer Science & Engineering at **Institute of Technology Roorkee** (Class of 2027)
+- 🎓 **Education**: B.Tech in Computer Science & Engineering at **Institute of Technology Roorkee** (2027)
 - 💻 **Core Focus**: Python development, Generative AI integration, Data Analytics, and Database-backed applications
 - 🤖 **What I'm building**: AI-powered resume evaluators, recruitment pipelines, and interactive analytics dashboards
 - 🌱 **Currently exploring**: Advanced LLM workflows, Prompt Engineering, and scalable backend architectures
 - 🎯 **Goal**: Software Developer Roles & Internships where I can solve real-world problems and write clean, impactful code
 - 📍 **Location**: Roorkee, India
+
 
 ---
 
